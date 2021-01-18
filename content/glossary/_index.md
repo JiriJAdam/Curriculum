@@ -83,9 +83,9 @@ There are two main types of automated market makers. One may be governed and set
 | ⚠️ | Bid-ask spread | TBD |
 | ⚠️ | Bitcoin | An immutable and trustless ledger made up of a decentralized network of nodes to manage and issue a global digital currency that mimics gold's property of scarcity via a hard limit of 21 million coins. Explicitly it is used as a store of value by mimicking the properties of money. It is the first successful attempt at issuing decentralized currency, non-fiat, non-state actor currency which solves the double-spend problem.|
 | 👷 | Bitcoin core | Bitcoin Core consists of both “full-node” software for fully validating the blockchain as well as a bitcoin wallet. Bitcoin Core is programmed to decide which blockchain contains a valid transaction. Users of Bitcoin Core only accept transactions for that blockchain, making it the Bitcoin blockchain that everyone else to use. The open-source project maintains and releases Bitcoin client software called “Bitcoin Core”; which is the descendant of the original Bitcoin software client by Satoshi Nakamoto after publishing the Bitcoin whitepaper. |
-| ⚠️ | Bitcoin dominance | TBD |
+| ⚠️ | Bitcoin dominance | Bitcoin dominance is a metric used by traders to measure the demand between bitcoin and the rest of the cryptocurrency market. The bitcoin dominance index (BDI) is a tool used to ascertain bitcoin demand in relation to the rest of the cryptocurrency market. As the pioneering cryptocurrency, bitcoin claims the highest trading volumes, and thus also maintains the largest market capitalisation of the entire digital asset economy. As such, the index can be viewed as an indicator of bitcoin’s influence and impact on the rest of the market. |
 | ⚠️ | Bitcoin Improvement Proposals (BIPS) | TBD |
-| ⚠️ | Blockchain | TBD |
+| ⚠️ | Blockchain | A blockchain, originally block chain, is a growing list of records, called blocks, that are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data. By design, a blockchain is resistant to modification of its data. |
 | ⚠️ | Block explorer | TBD |
 | ⚠️ | Block Header | TBD |
 | ⚠️ | Block Height | Number of blocks that have been currently mined since genesis |
